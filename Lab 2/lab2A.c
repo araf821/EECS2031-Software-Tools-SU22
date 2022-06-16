@@ -6,7 +6,7 @@
 * York Student #: 218124347
 ****************************************/
 
-#include <stdio.h>
+#include <stdio.h> 
 
 int isLetter(char);
 int isDigit(char);
