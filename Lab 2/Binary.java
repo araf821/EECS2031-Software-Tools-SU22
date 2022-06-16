@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class  Binary
+class  Binary 
 {
     public static void main(String[] args) 
    {
