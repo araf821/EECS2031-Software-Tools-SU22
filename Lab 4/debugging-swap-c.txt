@@ -1,0 +1,15 @@
+Debugging for swap.c
+
+display mainA
+1: mainA = 1
+
+display mainB
+2: mainB = 20000
+
+continue
+
+display x
+3: x = 1
+
+display y
+4: y = 20000
