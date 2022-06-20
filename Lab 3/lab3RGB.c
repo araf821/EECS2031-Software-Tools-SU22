@@ -1,11 +1,3 @@
-/***************************************
- * 22S - Lab03 *
- * Author: Alam, Araf *
- * Email: araf821@my.yorku.ca *
- * eecs_username: araf821 *
- * Yorku Student #: 218124347
- ************************************** **/
-
 #include <stdio.h>
 
 #define AlphaVal 100
