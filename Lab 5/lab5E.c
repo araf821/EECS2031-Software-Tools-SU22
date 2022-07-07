@@ -1,13 +1,3 @@
-/***************************************
- * 22S - Lab05 *
- * Author: Alam, Araf *
- * Email: araf821@my.yorku.ca *
- * eecs_username: araf821 *
- * York Student #: 218124347 *
- ************************************** **/
-
-/* Passing an array to a function. */
-
 #include <stdio.h>
 
 #define MAX_INPUT 22
