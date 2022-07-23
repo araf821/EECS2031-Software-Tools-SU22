@@ -1,12 +1,3 @@
-/***************************************
-* 22SU - Lab01 *
-* Author: Alam, Araf A *
-* Email: araf821@my.yorku.ca *
-* eecs_username: araf821 *
-* York Student #: 218124347
-****************************************/
-
-
 import java.util.Scanner;
 
 public class Hello {
